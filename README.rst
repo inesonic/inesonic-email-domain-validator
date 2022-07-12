@@ -18,7 +18,7 @@ file located in the "fields" directory.
 You can add additional email domains by adding directories and text fields using
 the same format into the "fields/extra" directory.
 
-Many thanks to JetBrains for supplying the database used.  That database can be
-found at https://github.com/JetBrains/swot.  Also thank you to
-the original authors.  The original version can be found at
+Many thanks to JetBrains for supplying the database used (under MIT license
+terms).  That database can be found at https://github.com/JetBrains/swot.  Also
+thank you to the original authors.  The original version can be found at
 https://github.com/leereilly/swot.
